@@ -58,6 +58,7 @@ dORFs, overlap_uORFs, and overlap_dORFs. You may asked to type in the file names
 running the program.
 Start and end positions of ORFs in each transcript
 ORFs with the same stop codon in different transcript isoforms
+
 Running Pipeline:
 All required input files should be gathered into a folder, which is placed in our pipeline main
 folder, along with installed Bowtie, STAR, etc. Aftering cd into the data folder, users can run the
@@ -66,6 +67,7 @@ python ../pipeline.py input1 input2 input3 input4
 Note : When running, user may need to provide file names for intimidated files. It will take
 about 10 minutes to run Bowtie, 1 hour and 40 minutes to run STAR, and 15 minutes to
 run RiboCode.
+
 How to query on BLAST?
 BLAST finds regions of similarity between biological sequences. The program compares
 nucleotide or protein sequences to sequence databases and calculates the statistical
@@ -79,6 +81,8 @@ https://blast.ncbi.nlm.nih.gov/Blast.cgi?PROGRAM=blastp&PAGE_TYPE=BlastSearch&LI
 OC=blasthome
 Copy the contents in sequences.txt to this web site. You will get the results. It usually
 takes days to run this step.
+
+
 Part 2: Improve the performance of Aho–Corasick algorithm by Ribocode-annotated
 transcripts
 In this part, user will run a revised aho-corasick algorithm.
