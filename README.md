@@ -1,6 +1,7 @@
 # Finding-ORF-of-Human-and-Mouse-Genome
 03-713 Group C
 Yuting Xiao, Xiaoqi Fang, Xinling Li, Zhenyu Yang
+
 User Manual
 Our pipeline is designed to incorporate multiple ORF prediction softwares with different
 input datasets. 
