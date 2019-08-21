@@ -3,9 +3,11 @@
 Yuting Xiao, Xiaoqi Fang, Xinling Li, Zhenyu Yang
 User Manual
 Our pipeline is designed to incorporate multiple ORF prediction softwares with different
-input datasets. The final result returned by our pipeline is chosen and considered with high
+input datasets. 
+The final result returned by our pipeline is chosen and considered with high
 quality result. Softwares used in our pipeline including Bowtie, STAR, RiboCode, ORF-Finder
 and BLAST. The program can be ran in a single python program named “pipeline.py”.
+
 Part 1: Obtain Result by Running RiboCode
 Language: Python 2.7
 
