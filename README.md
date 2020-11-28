@@ -1,4 +1,4 @@
-# Finding-ORF-of-Human-and-Mouse-Genome
+# Finding-ORFs-of-Human-and-Mouse-Genome
 03-713 Group C
 Yuting Xiao, Xiaoqi Fang, Xinling Li, Zhenyu Yang
 
