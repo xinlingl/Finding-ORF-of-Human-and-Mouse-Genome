@@ -2,7 +2,6 @@
 03-713 Group C
 Yuting Xiao, Xiaoqi Fang, Xinling Li, Zhenyu Yang
 
-User Manual
 Our pipeline is designed to incorporate multiple ORF prediction softwares with different
 input datasets. 
 The final result returned by our pipeline is chosen and considered with high
